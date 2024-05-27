@@ -23,15 +23,14 @@ public class HelloWorld
         Console.WriteLine ("Enter the string");
         string str1=Console.ReadLine();
         string str2=rev(str1);
-        //if(str1.CompareTo(str2)==0)
+        //if(str1.CompareTo(str2)==0
         if(str1.Equals(str2))
         {
             Console.WriteLine ("it is Anagram");
             
         }
          else
-        
-        {
+                {
             Console.WriteLine ("not Anagram");
             
         }
