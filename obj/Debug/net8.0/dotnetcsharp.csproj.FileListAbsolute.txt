@@ -1,0 +1,14 @@
+C:\Users\saujsriv\Downloads\dotnetcsharp\bin\Debug\net8.0\dotnetcsharp.exe
+C:\Users\saujsriv\Downloads\dotnetcsharp\bin\Debug\net8.0\dotnetcsharp.deps.json
+C:\Users\saujsriv\Downloads\dotnetcsharp\bin\Debug\net8.0\dotnetcsharp.runtimeconfig.json
+C:\Users\saujsriv\Downloads\dotnetcsharp\bin\Debug\net8.0\dotnetcsharp.dll
+C:\Users\saujsriv\Downloads\dotnetcsharp\bin\Debug\net8.0\dotnetcsharp.pdb
+C:\Users\saujsriv\Downloads\dotnetcsharp\obj\Debug\net8.0\dotnetcsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saujsriv\Downloads\dotnetcsharp\obj\Debug\net8.0\dotnetcsharp.AssemblyInfoInputs.cache
+C:\Users\saujsriv\Downloads\dotnetcsharp\obj\Debug\net8.0\dotnetcsharp.AssemblyInfo.cs
+C:\Users\saujsriv\Downloads\dotnetcsharp\obj\Debug\net8.0\dotnetcsharp.csproj.CoreCompileInputs.cache
+C:\Users\saujsriv\Downloads\dotnetcsharp\obj\Debug\net8.0\dotnetcsharp.dll
+C:\Users\saujsriv\Downloads\dotnetcsharp\obj\Debug\net8.0\refint\dotnetcsharp.dll
+C:\Users\saujsriv\Downloads\dotnetcsharp\obj\Debug\net8.0\dotnetcsharp.pdb
+C:\Users\saujsriv\Downloads\dotnetcsharp\obj\Debug\net8.0\dotnetcsharp.genruntimeconfig.cache
+C:\Users\saujsriv\Downloads\dotnetcsharp\obj\Debug\net8.0\ref\dotnetcsharp.dll
