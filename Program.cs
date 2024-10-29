@@ -16,8 +16,7 @@ public class HelloWorld
         }
        string b=new string(str);
         return b;
-    
-    }
+        }
     public static void Main(string[] args)
     {
         Console.WriteLine ("Enter the string");
