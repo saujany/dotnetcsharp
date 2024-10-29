@@ -29,7 +29,7 @@ public class HelloWorld
         }
          else
                 {
-            Console.WriteLine ("not Anagram");
+            Console.WriteLine ("it is not Anagram");
             
         }
         Console.ReadLine();
